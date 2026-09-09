@@ -1,5 +1,5 @@
-```markdown
-# 🌍 ExoTerra: Exoplanetary Climate & Terraforming Simulator
+
+# ExoTerra: Exoplanetary Climate & Terraforming Simulator
 
 **Research-grade computational framework for planetary climate evolution modeling and terraforming feasibility analysis**
 
@@ -88,7 +88,7 @@ Captures snowball Earth runaway glaciation and Venus-like greenhouse scenarios t
 ## Technical Implementation
 
 **Core Architecture**:
-```python
+
 PlanetaryState (25 state variables) 
   ↓
 Physics Modules (transmission spectroscopy, MHD, energy balance)
