@@ -107,28 +107,6 @@ Habitability Index (7-component scoring: temp, pressure, water, O₂, UV, magnet
 
 ---
 
-## Applications & Impact
-
-### 1. Mission Planning
-**HWO Target Prioritization**: Predicts TRAPPIST-1e requires 15 transits for O₃ detection vs 50 for O₂ (validated against Lustig-Yaeger et al. 2019)
-
-### 2. Mars Terraforming Roadmap
-Four-phase timeline validated against McKay & Marinova (2001):
-- Phase 1 (0-50 yr): +20 K from 2×10¹⁵ kg SF₆
-- Phase 2 (50-200 yr): 0.1 bar pressure increase from ice vaporization
-- Phase 3 (200-500 yr): 10²¹ kg biomass evolution
-- Phase 4 (500-5000 yr): 10 T artificial magnetosphere requirement
-
-### 3. SETI Science
-Post-detection characterization: If JWST detects 10.5 μm absorption, ExoTerra estimates:
-- SF₆ production rate (10⁹ kg/yr for 100 ppm)
-- Civilization energy budget (10¹⁸ W, Type I.2 Kardashev)
-
-### 4. Education
-Deployed at MIT/Caltech planetariums, 40% improvement in student understanding of radiative balance (pre/post assessment)
-
----
-
 ## Comparative Analysis
 
 | Feature | ExoTerra | ExoCAM (GCM) | VPL Suite | Prometheus (ML) |
